@@ -22,3 +22,4 @@ REQUIRED: Generic image to display if picture not found: generic.jpg
 # Tools Used
 - Python (Flask, hashlib)
 - Apache WebServer/Microsoft Internet Information Services
+NOTE: Python and flask are not a hard requirement, I only used them because Python is easy and Flask integrates well with Apache and IIS for microservices like this one. 
